@@ -17,7 +17,7 @@ The dataset used for this project contains penile measurements for different cou
 
 - `data.csv`: The main dataset used for analysis.
 - `height_data.csv`: Data on average height for each country.
-- `analysis.ipynb`: Jupyter Notebook containing the data analysis code.
+- `penile_analysis.ipynb`: Jupyter Notebook containing the data analysis code.
 - `visualizations/`: Folder containing scatterplots, statistical graphs, and correlation plots.
 - `readme.txt`: This file, providing an overview of the project.
 
